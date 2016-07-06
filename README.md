@@ -1,3 +1,2 @@
 # gittest
-# feature branch gittest
-# dev branch gittest
+# feature branch gittest to dev branch merge
